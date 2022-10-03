@@ -1,0 +1,9 @@
+#add
+#sub
+#div
+add=33
+sub=44
+div=22
+print(add)
+print(sub)
+print(div)
